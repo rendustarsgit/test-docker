@@ -11,7 +11,7 @@ pipeline {
         stage('Build Image') {
             steps {
                 //sh
-                sh "docker build -t='ganyindia/selenium-docker' ."
+                sh "docker build -t='ganyindia/test-docker' ."
             }
         }
         stage('Push Image') {
