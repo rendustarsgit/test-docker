@@ -2,7 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3643539d-da9c-4e38-a42a-9711d2295229" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/junitreports/TEST-com.searchmodule.tests.SearchTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/search-test-docker.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/search-test-java.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/search-test-kubernetes.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/search-test-webdriver.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/search-module/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/search-module/search-test-docker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/search-module/search-test-docker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/search-module/search-test-java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/search-module/search-test-java.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/search-module/search-test-kubernetes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/search-module/search-test-kubernetes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/search-module/search-test-webdriver.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/search-module/search-test-webdriver.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/junitreports/TEST-com.searchmodule.tests.SearchTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/search-test-docker.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/search-test-java.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/search-test-kubernetes.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/search-test-webdriver.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/old/search-module/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/search-module/search-test-docker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/search-module/search-test-docker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/search-module/search-test-java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/search-module/search-test-java.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/search-module/search-test-kubernetes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/search-module/search-test-kubernetes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/search-module/search-test-webdriver.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/search-module/search-test-webdriver.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result1/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/junitreports/TEST-com.searchmodule.tests.SearchTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/search-test-docker.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/search-test-java.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/search-test-kubernetes.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/search-test-webdriver.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/old/search-module/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/search-module/search-test-docker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/search-module/search-test-docker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/search-module/search-test-java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/search-module/search-test-java.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/search-module/search-test-kubernetes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/search-module/search-test-kubernetes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/search-module/search-test-webdriver.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/search-module/search-test-webdriver.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2/testng.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -79,8 +189,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/search-module.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+            <state relative-caret-position="420">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -444,8 +554,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/search-module.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
